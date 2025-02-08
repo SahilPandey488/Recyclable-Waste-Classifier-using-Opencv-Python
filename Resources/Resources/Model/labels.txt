@@ -1,0 +1,9 @@
+0 Nothing
+1 Zip-top cans
+2 Newspaper
+3 Watercolor pen
+4 Disinfectant
+5 Battery
+6 Vegetable leaf
+7 Apple
+8 Old shoe
